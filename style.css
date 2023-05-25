@@ -1,0 +1,25 @@
+main {
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    margin-left: 15%;
+   
+}
+
+body {
+    background-color: rgb(176, 197, 190);
+}
+
+input, button {
+    font-size: larger;
+}
+
+#count, #blank {
+    font-weight: bold;
+    font-size: larger;
+    color: red;
+}
+
+#blank {
+    font-size: xx-large;
+}
